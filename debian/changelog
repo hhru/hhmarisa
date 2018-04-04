@@ -1,3 +1,9 @@
+hhmarisa (0.0.2) unstable; urgency=medium
+
+  * HH-78077 Up python version  
+
+ -- Alexander Mishurov <a.mishurov@hh.ru>  Wed, 04 Apr 2018 17:32:44 +0300
+
 hhmarisa (0.0.1) unstable; urgency=low
 
   * Initial release.
