@@ -1,3 +1,9 @@
+hhmarisa (0.0.3) unstable; urgency=medium
+
+  * fix py3 dependencies
+
+ -- Andrey Sumin <an.sumin@hh.ru>  Wed, 03 Oct 2018 16:27:41 +0300
+
 hhmarisa (0.0.2) unstable; urgency=medium
 
   * HH-78077 Up python version  
