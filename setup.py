@@ -1,10 +1,7 @@
-# coding=utf-8
-
 import os
 import re
 
 from distutils.core import setup
-from distutils.command.build import build
 from distutils.extension import Extension
 from Cython.Build import cythonize
 
@@ -26,6 +23,6 @@ setup(
     version=version,
     description='Simple marisa reader',
     packages=['hhmarisa'],
-    ext_modules = cythonize([Extension("hhmarisa", ["hhmarisa/hhmarisa.pyx"], libraries=["marisa"])]),
+    ext_modules=cythonize([Extension('hhmarisa', ['hhmarisa/hhmarisa.pyx'], libraries=['marisa'])]),
 )
 
