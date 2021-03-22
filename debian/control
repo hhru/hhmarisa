@@ -5,15 +5,15 @@ Maintainer: Danil Smirnov <d.smirnov@hh.ru>
 Build-Depends:
   debhelper (>= 9),
   python3-all,
-  python3.7-dev,
+  python3.9-dev,
   libmarisa-dev,
 Standards-Version: 3.9.5
-X-Python3-Version: >= 3.7
+X-Python3-Version: >= 3.9
 
 Package: python3-hhmarisa
 Architecture: all
 Depends:
-  python3.7,
+  python3.9,
   libmarisa0,
 Description: Simple marisa reader for Python 3
-X-Python3-Version: >= 3.7
+X-Python3-Version: >= 3.9

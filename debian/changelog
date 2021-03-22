@@ -1,3 +1,9 @@
+hhmarisa (0.0.6) unstable; urgency=medium
+
+  * python3.9
+
+ -- Vera Lobacheva <v.lobacheva@hh.ru>  Fri, 19 May 2021 16:26:10 +0300
+
 hhmarisa (0.0.5) unstable; urgency=medium
 
   * python3.7
@@ -18,7 +24,7 @@ hhmarisa (0.0.3) unstable; urgency=medium
 
 hhmarisa (0.0.2) unstable; urgency=medium
 
-  * HH-78077 Up python version  
+  * HH-78077 Up python version
 
  -- Alexander Mishurov <a.mishurov@hh.ru>  Wed, 04 Apr 2018 17:32:44 +0300
 
